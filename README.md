@@ -9,8 +9,7 @@ See compatibility list below to find the version that suits your Keycloak versio
 | Keycloak Version | Extension Version                             |
 |------------------|-----------------------------------------------|
 | `< 20.0.0`       | :warning: Not verified, use at your own risk. |
-| `20.*`, `21.*`   | :white_check_mark: `1.0.0`                    |
-| `> 21`           | :warning: Not verified, use at your own risk. |
+| `20.*`, `21.*`, `22.*`   | :white_check_mark: `1.0.0`            |
 
 # Usage
 
